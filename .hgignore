@@ -1,0 +1,13 @@
+syntax: glob
+a.out
+*.swp
+*.o
+*.orig
+*.hi
+*.lkshs
+*.iml
+.idea/
+dist/
+out/
+*~
+\#*\#
